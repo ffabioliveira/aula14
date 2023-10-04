@@ -1,0 +1,32 @@
+GET http://localhost:8080/api/produtos
+
+###
+
+GET http://localhost:8080/api/produtos/
+
+###
+
+POST http://localhost:8080/api/produtos
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjYsImlzcyI6ImltZC1iYWNrZW5kIiwiYXVkIjoiaW1kLWZyb250ZW5kIiwiZW1haWwiOiJuZXd0b25AZ21haWwuY29tIiwiaWF0IjoxNjk2MzU5NTMxLCJleHAiOjE2OTYzNjMxMzF9.JXNov3SoceUxujiWbqkl9T5LTQKRCQyAB3Ne11Nyz4U
+
+{
+    "nome": "Celular",
+    "descricao": "Branco",
+    "preco": 90,
+    "userId": 4
+}
+
+###
+
+PUT http://localhost:8080/api/produtos?id=2
+Content-Type: application/json
+
+{
+    "nome": "Teste",
+    "descricao": "Preto",
+    "preco": 90
+}
+
+###
+DELETE http://localhost:8080/api/produtos?id=11

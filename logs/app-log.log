@@ -1,0 +1,1207 @@
+2023-09-25T21:17:49.013Z [info] Iniciando no ambiente development
+2023-09-25T21:17:49.016Z [info] Servidor pronto na porta 8080
+2023-09-25T21:20:49.788Z [info] Iniciando no ambiente development
+2023-09-25T21:20:49.792Z [info] Servidor pronto na porta 8080
+2023-09-25T21:20:54.569Z [info] Iniciando no ambiente development
+2023-09-25T21:20:54.572Z [info] Servidor pronto na porta 8080
+2023-09-25T21:20:59.442Z [info] Iniciando no ambiente development
+2023-09-25T21:20:59.448Z [info] Servidor pronto na porta 8080
+2023-09-25T21:21:07.212Z [info] Iniciando no ambiente development
+2023-09-25T21:21:07.216Z [info] Servidor pronto na porta 8080
+2023-09-25T21:21:17.208Z [info] Iniciando no ambiente development
+2023-09-25T21:21:17.216Z [info] Servidor pronto na porta 8080
+2023-09-25T21:21:22.781Z [info] Iniciando no ambiente development
+2023-09-25T21:21:22.785Z [info] Servidor pronto na porta 8080
+2023-09-25T21:21:29.871Z [info] Iniciando no ambiente development
+2023-09-25T21:21:29.875Z [info] Servidor pronto na porta 8080
+2023-09-25T21:21:39.251Z [info] Iniciando no ambiente development
+2023-09-25T21:21:39.254Z [info] Servidor pronto na porta 8080
+2023-09-25T21:23:04.095Z [info] Iniciando no ambiente development
+2023-09-25T21:23:04.098Z [info] Servidor pronto na porta 8080
+2023-09-25T21:24:15.866Z [info] Iniciando no ambiente development
+2023-09-25T21:24:15.874Z [info] Servidor pronto na porta 8080
+2023-09-25T21:26:03.225Z [debug] Requisição GET na rota /api/produtos
+2023-09-25T21:26:39.299Z [debug] Requisição GET na rota /api/produtos/1
+2023-09-25T21:26:45.184Z [debug] Requisição GET na rota /api/produtos
+2023-09-25T21:27:49.939Z [info] Iniciando no ambiente development
+2023-09-25T21:27:49.944Z [info] Servidor pronto na porta 8080
+2023-09-25T21:27:56.930Z [debug] Requisição GET na rota /api/produtos/1
+2023-09-25T21:28:11.515Z [debug] Requisição GET na rota /api/produtos
+2023-09-25T21:28:18.915Z [debug] Requisição GET na rota /api/produtos/9
+2023-09-25T21:54:05.643Z [debug] Requisição GET na rota /
+2023-09-25T21:54:05.833Z [debug] Requisição GET na rota /static/uploads/foto-1695644268774.jpg
+2023-09-25T21:54:05.853Z [debug] Requisição GET na rota /static/imgs/avatar.jpg
+2023-09-25T21:54:05.856Z [debug] Requisição GET na rota /static/uploads/foto-1695644185956.jpg
+2023-09-26T23:38:48.402Z [info] Iniciando no ambiente development
+2023-09-26T23:38:48.406Z [info] Servidor pronto na porta 8080
+2023-09-26T23:40:52.512Z [info] Iniciando no ambiente development
+2023-09-26T23:40:52.514Z [info] Servidor pronto na porta 8080
+2023-09-26T23:41:04.464Z [info] Iniciando no ambiente development
+2023-09-26T23:41:04.466Z [info] Servidor pronto na porta 8080
+2023-09-26T23:41:48.149Z [info] Iniciando no ambiente development
+2023-09-26T23:41:48.152Z [info] Servidor pronto na porta 8080
+2023-09-26T23:42:22.465Z [info] Iniciando no ambiente development
+2023-09-26T23:42:22.468Z [info] Servidor pronto na porta 8080
+2023-09-26T23:42:28.325Z [info] Iniciando no ambiente development
+2023-09-26T23:42:28.328Z [info] Servidor pronto na porta 8080
+2023-09-26T23:42:35.795Z [info] Iniciando no ambiente development
+2023-09-26T23:42:35.797Z [info] Servidor pronto na porta 8080
+2023-09-26T23:43:30.156Z [info] Iniciando no ambiente undefined
+2023-09-26T23:43:30.161Z [info] Servidor pronto na porta 8080
+2023-09-26T23:45:00.773Z [info] Iniciando no ambiente undefined
+2023-09-26T23:45:00.777Z [info] Servidor pronto na porta 8080
+2023-09-26T23:45:24.355Z [info] Iniciando no ambiente undefined
+2023-09-26T23:45:24.362Z [info] Servidor pronto na porta 8080
+2023-09-26T23:46:17.834Z [info] Iniciando no ambiente undefined
+2023-09-26T23:46:17.837Z [info] Servidor pronto na porta 8080
+2023-09-26T23:46:40.837Z [info] Iniciando no ambiente undefined
+2023-09-26T23:46:40.841Z [info] Servidor pronto na porta 8080
+2023-09-26T23:47:46.015Z [info] Iniciando no ambiente undefined
+2023-09-26T23:47:46.018Z [info] Servidor pronto na porta 8080
+2023-09-26T23:51:15.101Z [info] Iniciando no ambiente undefined
+2023-09-26T23:51:15.104Z [info] Servidor pronto na porta 8080
+2023-09-26T23:51:31.847Z [info] Iniciando no ambiente undefined
+2023-09-26T23:51:31.851Z [info] Servidor pronto na porta 8080
+2023-09-26T23:54:35.638Z [info] Iniciando no ambiente undefined
+2023-09-26T23:54:35.641Z [info] Servidor pronto na porta 8080
+2023-09-26T23:57:47.629Z [info] Iniciando no ambiente undefined
+2023-09-26T23:57:47.632Z [info] Servidor pronto na porta 8080
+2023-09-27T00:09:59.306Z [info] Iniciando no ambiente undefined
+2023-09-27T00:09:59.309Z [info] Servidor pronto na porta 8080
+2023-09-27T00:18:28.429Z [info] Iniciando no ambiente undefined
+2023-09-27T00:18:28.432Z [info] Servidor pronto na porta 8080
+2023-09-27T00:18:37.698Z [info] Iniciando no ambiente undefined
+2023-09-27T00:18:37.701Z [info] Servidor pronto na porta 8080
+2023-09-27T00:18:55.659Z [info] Iniciando no ambiente undefined
+2023-09-27T00:18:55.662Z [info] Servidor pronto na porta 8080
+2023-09-27T00:19:01.045Z [info] Iniciando no ambiente undefined
+2023-09-27T00:19:01.049Z [info] Servidor pronto na porta 8080
+2023-09-27T00:20:32.234Z [info] Iniciando no ambiente undefined
+2023-09-27T00:20:32.242Z [info] Servidor pronto na porta 8080
+2023-09-27T00:20:36.927Z [info] Iniciando no ambiente undefined
+2023-09-27T00:20:36.933Z [info] Servidor pronto na porta 8080
+2023-09-30T23:42:39.941Z [info] Iniciando no ambiente development
+2023-09-30T23:42:39.944Z [info] Servidor pronto na porta 8080
+2023-09-30T23:43:06.425Z [debug] Requisição POST na rota /api/usuarios
+2023-09-30T23:43:29.964Z [debug] Requisição GET na rota /api/usuarios
+2023-09-30T23:48:37.599Z [info] Iniciando no ambiente development
+2023-09-30T23:48:37.603Z [info] Servidor pronto na porta 8080
+2023-09-30T23:48:55.882Z [info] Iniciando no ambiente development
+2023-09-30T23:48:55.885Z [info] Servidor pronto na porta 8080
+2023-09-30T23:49:05.922Z [info] Iniciando no ambiente development
+2023-09-30T23:49:05.924Z [info] Servidor pronto na porta 8080
+2023-09-30T23:49:07.639Z [info] Iniciando no ambiente development
+2023-09-30T23:49:07.641Z [info] Servidor pronto na porta 8080
+2023-09-30T23:49:11.431Z [info] Iniciando no ambiente development
+2023-09-30T23:49:11.433Z [info] Servidor pronto na porta 8080
+2023-09-30T23:49:24.088Z [info] Iniciando no ambiente development
+2023-09-30T23:49:24.090Z [info] Servidor pronto na porta 8080
+2023-09-30T23:49:28.231Z [info] Iniciando no ambiente development
+2023-09-30T23:49:28.233Z [info] Servidor pronto na porta 8080
+2023-09-30T23:49:44.997Z [info] Iniciando no ambiente development
+2023-09-30T23:49:44.999Z [info] Servidor pronto na porta 8080
+2023-09-30T23:49:48.068Z [info] Iniciando no ambiente development
+2023-09-30T23:49:48.071Z [info] Servidor pronto na porta 8080
+2023-09-30T23:49:54.190Z [info] Iniciando no ambiente development
+2023-09-30T23:49:54.194Z [info] Servidor pronto na porta 8080
+2023-09-30T23:50:01.261Z [info] Iniciando no ambiente development
+2023-09-30T23:50:01.263Z [info] Servidor pronto na porta 8080
+2023-09-30T23:50:19.805Z [info] Iniciando no ambiente development
+2023-09-30T23:50:19.809Z [info] Servidor pronto na porta 8080
+2023-09-30T23:50:21.815Z [info] Iniciando no ambiente development
+2023-09-30T23:50:21.817Z [info] Servidor pronto na porta 8080
+2023-09-30T23:50:31.995Z [info] Iniciando no ambiente development
+2023-09-30T23:50:31.998Z [info] Servidor pronto na porta 8080
+2023-09-30T23:50:48.469Z [info] Iniciando no ambiente development
+2023-09-30T23:50:48.472Z [info] Servidor pronto na porta 8080
+2023-09-30T23:50:53.184Z [info] Iniciando no ambiente development
+2023-09-30T23:50:53.187Z [info] Servidor pronto na porta 8080
+2023-09-30T23:51:28.444Z [info] Iniciando no ambiente development
+2023-09-30T23:51:28.446Z [info] Servidor pronto na porta 8080
+2023-09-30T23:51:33.418Z [info] Iniciando no ambiente development
+2023-09-30T23:51:33.424Z [info] Servidor pronto na porta 8080
+2023-09-30T23:53:18.313Z [info] Iniciando no ambiente development
+2023-09-30T23:53:18.315Z [info] Servidor pronto na porta 8080
+2023-09-30T23:56:16.377Z [debug] Requisição POST na rota /api/usuariios/login
+2023-09-30T23:56:33.928Z [debug] Requisição POST na rota /api/usuariios/login
+2023-09-30T23:57:40.645Z [debug] Requisição POST na rota /api/usuarios/login
+2023-09-30T23:58:04.533Z [debug] Requisição POST na rota /api/usuarios/login
+2023-09-30T23:58:18.847Z [debug] Requisição GET na rota /api/usuarios
+2023-09-30T23:58:53.845Z [debug] Requisição DELETE na rota /api/usuarios
+2023-09-30T23:58:58.646Z [debug] Requisição DELETE na rota /api/usuarios
+2023-09-30T23:59:02.105Z [debug] Requisição GET na rota /api/usuarios
+2023-09-30T23:59:30.048Z [debug] Requisição POST na rota /api/usuarios/login
+2023-09-30T23:59:39.110Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T00:00:28.338Z [info] Iniciando no ambiente development
+2023-10-01T00:00:28.342Z [info] Servidor pronto na porta 8080
+2023-10-01T00:00:32.970Z [info] Iniciando no ambiente development
+2023-10-01T00:00:32.972Z [info] Servidor pronto na porta 8080
+2023-10-01T00:01:27.956Z [info] Iniciando no ambiente development
+2023-10-01T00:01:27.961Z [info] Servidor pronto na porta 8080
+2023-10-01T00:01:34.309Z [info] Iniciando no ambiente development
+2023-10-01T00:01:34.312Z [info] Servidor pronto na porta 8080
+2023-10-01T00:02:00.640Z [info] Iniciando no ambiente development
+2023-10-01T00:02:00.644Z [info] Servidor pronto na porta 8080
+2023-10-01T00:03:02.405Z [info] Iniciando no ambiente development
+2023-10-01T00:03:02.408Z [info] Servidor pronto na porta 8080
+2023-10-01T00:03:47.330Z [info] Iniciando no ambiente development
+2023-10-01T00:03:47.332Z [info] Servidor pronto na porta 8080
+2023-10-01T00:03:49.151Z [info] Iniciando no ambiente development
+2023-10-01T00:03:49.155Z [info] Servidor pronto na porta 8080
+2023-10-01T00:04:38.478Z [info] Iniciando no ambiente development
+2023-10-01T00:04:38.480Z [info] Servidor pronto na porta 8080
+2023-10-01T00:04:58.095Z [info] Iniciando no ambiente development
+2023-10-01T00:04:58.097Z [info] Servidor pronto na porta 8080
+2023-10-01T00:05:27.530Z [info] Iniciando no ambiente development
+2023-10-01T00:05:27.534Z [info] Servidor pronto na porta 8080
+2023-10-01T00:05:46.818Z [info] Iniciando no ambiente development
+2023-10-01T00:05:46.821Z [info] Servidor pronto na porta 8080
+2023-10-01T00:05:51.209Z [info] Iniciando no ambiente development
+2023-10-01T00:05:51.212Z [info] Servidor pronto na porta 8080
+2023-10-01T00:05:57.051Z [info] Iniciando no ambiente development
+2023-10-01T00:05:57.054Z [info] Servidor pronto na porta 8080
+2023-10-01T00:05:59.476Z [info] Iniciando no ambiente development
+2023-10-01T00:05:59.479Z [info] Servidor pronto na porta 8080
+2023-10-01T00:06:04.962Z [info] Iniciando no ambiente development
+2023-10-01T00:06:04.965Z [info] Servidor pronto na porta 8080
+2023-10-01T00:06:06.675Z [info] Iniciando no ambiente development
+2023-10-01T00:06:06.677Z [info] Servidor pronto na porta 8080
+2023-10-01T00:06:11.570Z [info] Iniciando no ambiente development
+2023-10-01T00:06:11.573Z [info] Servidor pronto na porta 8080
+2023-10-01T00:06:15.525Z [info] Iniciando no ambiente development
+2023-10-01T00:06:15.528Z [info] Servidor pronto na porta 8080
+2023-10-01T00:06:27.289Z [info] Iniciando no ambiente development
+2023-10-01T00:06:27.291Z [info] Servidor pronto na porta 8080
+2023-10-01T00:07:04.564Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T00:07:17.880Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T00:47:42.177Z [info] Iniciando no ambiente development
+2023-10-01T00:47:42.180Z [info] Servidor pronto na porta 8080
+2023-10-01T00:48:34.261Z [info] Iniciando no ambiente development
+2023-10-01T00:48:34.264Z [info] Servidor pronto na porta 8080
+2023-10-01T00:48:45.898Z [info] Iniciando no ambiente development
+2023-10-01T00:48:45.945Z [info] Servidor pronto na porta 8080
+2023-10-01T00:49:50.433Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T00:50:02.662Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T00:53:52.481Z [info] Iniciando no ambiente development
+2023-10-01T00:53:52.484Z [info] Servidor pronto na porta 8080
+2023-10-01T00:54:00.976Z [info] Iniciando no ambiente development
+2023-10-01T00:54:00.980Z [info] Servidor pronto na porta 8080
+2023-10-01T00:54:07.962Z [info] Iniciando no ambiente development
+2023-10-01T00:54:07.976Z [info] Servidor pronto na porta 8080
+2023-10-01T00:54:11.200Z [info] Iniciando no ambiente development
+2023-10-01T00:54:11.264Z [info] Servidor pronto na porta 8080
+2023-10-01T00:54:19.687Z [info] Iniciando no ambiente development
+2023-10-01T00:54:19.694Z [info] Servidor pronto na porta 8080
+2023-10-01T00:54:25.146Z [info] Iniciando no ambiente development
+2023-10-01T00:54:25.150Z [info] Servidor pronto na porta 8080
+2023-10-01T00:54:27.015Z [info] Iniciando no ambiente development
+2023-10-01T00:54:27.018Z [info] Servidor pronto na porta 8080
+2023-10-01T00:54:44.253Z [info] Iniciando no ambiente development
+2023-10-01T00:54:44.259Z [info] Servidor pronto na porta 8080
+2023-10-01T00:54:45.917Z [info] Iniciando no ambiente development
+2023-10-01T00:54:45.921Z [info] Servidor pronto na porta 8080
+2023-10-01T00:54:48.989Z [info] Iniciando no ambiente development
+2023-10-01T00:54:48.992Z [info] Servidor pronto na porta 8080
+2023-10-01T00:54:54.993Z [info] Iniciando no ambiente development
+2023-10-01T00:54:54.997Z [info] Servidor pronto na porta 8080
+2023-10-01T00:54:58.978Z [info] Iniciando no ambiente development
+2023-10-01T00:54:58.983Z [info] Servidor pronto na porta 8080
+2023-10-01T00:55:04.504Z [info] Iniciando no ambiente development
+2023-10-01T00:55:04.508Z [info] Servidor pronto na porta 8080
+2023-10-01T00:55:40.616Z [info] Iniciando no ambiente development
+2023-10-01T00:55:40.621Z [info] Servidor pronto na porta 8080
+2023-10-01T00:55:53.811Z [info] Iniciando no ambiente development
+2023-10-01T00:55:53.816Z [info] Servidor pronto na porta 8080
+2023-10-01T00:55:56.945Z [info] Iniciando no ambiente development
+2023-10-01T00:55:56.955Z [info] Servidor pronto na porta 8080
+2023-10-01T00:55:58.825Z [info] Iniciando no ambiente development
+2023-10-01T00:55:58.839Z [info] Servidor pronto na porta 8080
+2023-10-01T00:56:00.862Z [info] Iniciando no ambiente development
+2023-10-01T00:56:00.865Z [info] Servidor pronto na porta 8080
+2023-10-01T00:56:05.115Z [info] Iniciando no ambiente development
+2023-10-01T00:56:05.119Z [info] Servidor pronto na porta 8080
+2023-10-01T00:56:06.825Z [info] Iniciando no ambiente development
+2023-10-01T00:56:06.828Z [info] Servidor pronto na porta 8080
+2023-10-01T00:56:09.639Z [info] Iniciando no ambiente development
+2023-10-01T00:56:09.642Z [info] Servidor pronto na porta 8080
+2023-10-01T00:56:13.732Z [info] Iniciando no ambiente development
+2023-10-01T00:56:13.741Z [info] Servidor pronto na porta 8080
+2023-10-01T00:56:24.847Z [info] Iniciando no ambiente development
+2023-10-01T00:56:24.853Z [info] Servidor pronto na porta 8080
+2023-10-01T00:56:30.681Z [info] Iniciando no ambiente development
+2023-10-01T00:56:30.687Z [info] Servidor pronto na porta 8080
+2023-10-01T00:56:49.770Z [info] Iniciando no ambiente development
+2023-10-01T00:56:49.773Z [info] Servidor pronto na porta 8080
+2023-10-01T00:56:53.388Z [info] Iniciando no ambiente development
+2023-10-01T00:56:53.392Z [info] Servidor pronto na porta 8080
+2023-10-01T00:57:01.353Z [info] Iniciando no ambiente development
+2023-10-01T00:57:01.356Z [info] Servidor pronto na porta 8080
+2023-10-01T00:57:04.566Z [info] Iniciando no ambiente development
+2023-10-01T00:57:04.570Z [info] Servidor pronto na porta 8080
+2023-10-01T00:57:06.709Z [info] Iniciando no ambiente development
+2023-10-01T00:57:06.712Z [info] Servidor pronto na porta 8080
+2023-10-01T00:57:08.490Z [info] Iniciando no ambiente development
+2023-10-01T00:57:08.493Z [info] Servidor pronto na porta 8080
+2023-10-01T00:57:20.568Z [info] Iniciando no ambiente development
+2023-10-01T00:57:20.573Z [info] Servidor pronto na porta 8080
+2023-10-01T00:57:24.556Z [info] Iniciando no ambiente development
+2023-10-01T00:57:24.560Z [info] Servidor pronto na porta 8080
+2023-10-01T00:58:06.530Z [info] Iniciando no ambiente development
+2023-10-01T00:58:06.534Z [info] Servidor pronto na porta 8080
+2023-10-01T00:58:08.833Z [info] Iniciando no ambiente development
+2023-10-01T00:58:08.837Z [info] Servidor pronto na porta 8080
+2023-10-01T00:58:22.086Z [info] Iniciando no ambiente development
+2023-10-01T00:58:22.089Z [info] Servidor pronto na porta 8080
+2023-10-01T00:58:29.238Z [info] Iniciando no ambiente development
+2023-10-01T00:58:29.242Z [info] Servidor pronto na porta 8080
+2023-10-01T00:58:41.102Z [info] Iniciando no ambiente development
+2023-10-01T00:58:41.105Z [info] Servidor pronto na porta 8080
+2023-10-01T00:58:43.522Z [info] Iniciando no ambiente development
+2023-10-01T00:58:43.527Z [info] Servidor pronto na porta 8080
+2023-10-01T00:58:47.426Z [info] Iniciando no ambiente development
+2023-10-01T00:58:47.431Z [info] Servidor pronto na porta 8080
+2023-10-01T00:58:53.566Z [info] Iniciando no ambiente development
+2023-10-01T00:58:53.569Z [info] Servidor pronto na porta 8080
+2023-10-01T00:58:58.154Z [info] Iniciando no ambiente development
+2023-10-01T00:58:58.158Z [info] Servidor pronto na porta 8080
+2023-10-01T00:59:03.369Z [info] Iniciando no ambiente development
+2023-10-01T00:59:03.372Z [info] Servidor pronto na porta 8080
+2023-10-01T00:59:09.318Z [info] Iniciando no ambiente development
+2023-10-01T00:59:09.322Z [info] Servidor pronto na porta 8080
+2023-10-01T00:59:18.610Z [info] Iniciando no ambiente development
+2023-10-01T00:59:18.613Z [info] Servidor pronto na porta 8080
+2023-10-01T00:59:22.418Z [info] Iniciando no ambiente development
+2023-10-01T00:59:22.424Z [info] Servidor pronto na porta 8080
+2023-10-01T00:59:31.689Z [info] Iniciando no ambiente development
+2023-10-01T00:59:31.694Z [info] Servidor pronto na porta 8080
+2023-10-01T00:59:39.829Z [info] Iniciando no ambiente development
+2023-10-01T00:59:39.833Z [info] Servidor pronto na porta 8080
+2023-10-01T01:07:01.598Z [info] Iniciando no ambiente development
+2023-10-01T01:07:01.601Z [info] Servidor pronto na porta 8080
+2023-10-01T01:07:26.497Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T01:08:16.306Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T01:08:33.736Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T01:09:42.842Z [info] Iniciando no ambiente development
+2023-10-01T01:09:42.850Z [info] Servidor pronto na porta 8080
+2023-10-01T01:09:46.876Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T01:10:00.543Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T01:10:55.000Z [info] Iniciando no ambiente development
+2023-10-01T01:10:55.035Z [info] Servidor pronto na porta 8080
+2023-10-01T01:10:56.618Z [info] Iniciando no ambiente development
+2023-10-01T01:10:56.621Z [info] Servidor pronto na porta 8080
+2023-10-01T01:11:14.112Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T01:11:31.436Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T01:12:34.868Z [info] Iniciando no ambiente development
+2023-10-01T01:12:34.871Z [info] Servidor pronto na porta 8080
+2023-10-01T01:13:12.119Z [info] Iniciando no ambiente development
+2023-10-01T01:13:12.125Z [info] Servidor pronto na porta 8080
+2023-10-01T01:13:14.201Z [info] Iniciando no ambiente development
+2023-10-01T01:13:14.204Z [info] Servidor pronto na porta 8080
+2023-10-01T01:14:02.030Z [info] Iniciando no ambiente development
+2023-10-01T01:14:02.036Z [info] Servidor pronto na porta 8080
+2023-10-01T01:14:02.460Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T01:14:13.351Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T01:14:46.907Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T01:15:25.645Z [debug] Requisição GET na rota /api/usuarios
+2023-10-01T01:15:43.425Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T01:16:47.609Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T01:16:53.148Z [debug] Requisição GET na rota /api/produtos/9
+2023-10-01T01:17:19.909Z [info] Iniciando no ambiente development
+2023-10-01T01:17:19.912Z [info] Servidor pronto na porta 8080
+2023-10-01T01:17:26.697Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T01:17:53.076Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T01:20:15.447Z [info] Iniciando no ambiente development
+2023-10-01T01:20:15.456Z [info] Servidor pronto na porta 8080
+2023-10-01T01:20:18.540Z [info] Iniciando no ambiente development
+2023-10-01T01:20:18.543Z [info] Servidor pronto na porta 8080
+2023-10-01T01:20:21.655Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T01:20:33.790Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T01:21:37.370Z [info] Iniciando no ambiente development
+2023-10-01T01:21:37.374Z [info] Servidor pronto na porta 8080
+2023-10-01T01:21:51.734Z [info] Iniciando no ambiente development
+2023-10-01T01:21:51.737Z [info] Servidor pronto na porta 8080
+2023-10-01T01:21:54.115Z [info] Iniciando no ambiente development
+2023-10-01T01:21:54.119Z [info] Servidor pronto na porta 8080
+2023-10-01T01:22:05.462Z [info] Iniciando no ambiente development
+2023-10-01T01:22:05.465Z [info] Servidor pronto na porta 8080
+2023-10-01T01:22:21.250Z [info] Iniciando no ambiente development
+2023-10-01T01:22:21.252Z [info] Servidor pronto na porta 8080
+2023-10-01T01:22:23.699Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T01:22:34.824Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T01:24:14.475Z [info] Iniciando no ambiente development
+2023-10-01T01:24:14.478Z [info] Servidor pronto na porta 8080
+2023-10-01T01:24:17.789Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T01:24:49.816Z [info] Iniciando no ambiente development
+2023-10-01T01:24:49.819Z [info] Servidor pronto na porta 8080
+2023-10-01T01:24:52.480Z [info] Iniciando no ambiente development
+2023-10-01T01:24:52.483Z [info] Servidor pronto na porta 8080
+2023-10-01T01:24:55.282Z [info] Iniciando no ambiente development
+2023-10-01T01:24:55.285Z [info] Servidor pronto na porta 8080
+2023-10-01T01:24:59.107Z [info] Iniciando no ambiente development
+2023-10-01T01:24:59.110Z [info] Servidor pronto na porta 8080
+2023-10-01T01:25:17.940Z [info] Iniciando no ambiente development
+2023-10-01T01:25:17.943Z [info] Servidor pronto na porta 8080
+2023-10-01T01:25:17.977Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T01:25:28.965Z [info] Iniciando no ambiente development
+2023-10-01T01:25:28.970Z [info] Servidor pronto na porta 8080
+2023-10-01T01:25:29.722Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T01:27:15.569Z [info] Iniciando no ambiente development
+2023-10-01T01:27:15.572Z [info] Servidor pronto na porta 8080
+2023-10-01T01:27:21.920Z [info] Iniciando no ambiente development
+2023-10-01T01:27:21.923Z [info] Servidor pronto na porta 8080
+2023-10-01T01:27:30.834Z [info] Iniciando no ambiente development
+2023-10-01T01:27:30.838Z [info] Servidor pronto na porta 8080
+2023-10-01T01:27:35.471Z [info] Iniciando no ambiente development
+2023-10-01T01:27:35.474Z [info] Servidor pronto na porta 8080
+2023-10-01T01:27:39.604Z [info] Iniciando no ambiente development
+2023-10-01T01:27:39.608Z [info] Servidor pronto na porta 8080
+2023-10-01T01:27:42.513Z [info] Iniciando no ambiente development
+2023-10-01T01:27:42.516Z [info] Servidor pronto na porta 8080
+2023-10-01T01:27:57.705Z [info] Iniciando no ambiente development
+2023-10-01T01:27:57.710Z [info] Servidor pronto na porta 8080
+2023-10-01T01:28:00.792Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T01:28:08.978Z [info] Iniciando no ambiente development
+2023-10-01T01:28:08.981Z [info] Servidor pronto na porta 8080
+2023-10-01T01:28:15.783Z [info] Iniciando no ambiente development
+2023-10-01T01:28:15.786Z [info] Servidor pronto na porta 8080
+2023-10-01T01:29:01.878Z [info] Iniciando no ambiente development
+2023-10-01T01:29:01.881Z [info] Servidor pronto na porta 8080
+2023-10-01T01:29:04.302Z [info] Iniciando no ambiente development
+2023-10-01T01:29:04.306Z [info] Servidor pronto na porta 8080
+2023-10-01T01:29:09.776Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T01:29:17.334Z [info] Iniciando no ambiente development
+2023-10-01T01:29:17.339Z [info] Servidor pronto na porta 8080
+2023-10-01T01:29:46.194Z [info] Iniciando no ambiente development
+2023-10-01T01:29:46.197Z [info] Servidor pronto na porta 8080
+2023-10-01T01:29:49.696Z [info] Iniciando no ambiente development
+2023-10-01T01:29:49.699Z [info] Servidor pronto na porta 8080
+2023-10-01T01:29:50.006Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T01:30:00.117Z [info] Iniciando no ambiente development
+2023-10-01T01:30:00.122Z [info] Servidor pronto na porta 8080
+2023-10-01T01:30:00.805Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T01:30:16.629Z [info] Iniciando no ambiente development
+2023-10-01T01:30:16.632Z [info] Servidor pronto na porta 8080
+2023-10-01T01:32:38.233Z [info] Iniciando no ambiente development
+2023-10-01T01:32:38.236Z [info] Servidor pronto na porta 8080
+2023-10-01T01:33:03.841Z [info] Iniciando no ambiente development
+2023-10-01T01:33:03.844Z [info] Servidor pronto na porta 8080
+2023-10-01T01:33:11.772Z [info] Iniciando no ambiente development
+2023-10-01T01:33:11.775Z [info] Servidor pronto na porta 8080
+2023-10-01T01:33:47.601Z [info] Iniciando no ambiente development
+2023-10-01T01:33:47.605Z [info] Servidor pronto na porta 8080
+2023-10-01T15:57:28.106Z [info] Iniciando no ambiente development
+2023-10-01T15:57:28.109Z [info] Servidor pronto na porta 8080
+2023-10-01T15:58:41.385Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T15:58:58.311Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T15:59:54.649Z [info] Iniciando no ambiente development
+2023-10-01T15:59:54.652Z [info] Servidor pronto na porta 8080
+2023-10-01T16:01:34.558Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T16:01:46.749Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T16:05:04.091Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T16:05:14.359Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T16:07:09.773Z [info] Iniciando no ambiente development
+2023-10-01T16:07:09.776Z [info] Servidor pronto na porta 8080
+2023-10-01T16:07:43.270Z [info] Iniciando no ambiente development
+2023-10-01T16:07:43.274Z [info] Servidor pronto na porta 8080
+2023-10-01T16:09:01.282Z [info] Iniciando no ambiente development
+2023-10-01T16:09:01.286Z [info] Servidor pronto na porta 8080
+2023-10-01T16:10:28.321Z [info] Iniciando no ambiente development
+2023-10-01T16:10:28.324Z [info] Servidor pronto na porta 8080
+2023-10-01T16:10:31.834Z [info] Iniciando no ambiente development
+2023-10-01T16:10:31.839Z [info] Servidor pronto na porta 8080
+2023-10-01T16:11:09.120Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T16:11:40.247Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T16:11:55.545Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T16:15:53.164Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T16:16:06.204Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T16:17:13.154Z [info] Iniciando no ambiente development
+2023-10-01T16:17:13.159Z [info] Servidor pronto na porta 8080
+2023-10-01T16:17:26.705Z [info] Iniciando no ambiente development
+2023-10-01T16:17:26.710Z [info] Servidor pronto na porta 8080
+2023-10-01T16:17:35.167Z [info] Iniciando no ambiente development
+2023-10-01T16:17:35.173Z [info] Servidor pronto na porta 8080
+2023-10-01T16:18:05.871Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T16:18:18.472Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T16:18:29.215Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T16:18:37.037Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T16:18:44.265Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T16:18:52.036Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T18:42:29.482Z [info] Iniciando no ambiente development
+2023-10-01T18:42:29.485Z [info] Servidor pronto na porta 8080
+2023-10-01T18:42:41.689Z [debug] Requisição GET na rota /
+2023-10-01T18:42:41.938Z [debug] Requisição GET na rota /static/uploads/foto-1695644268774.jpg
+2023-10-01T18:42:41.969Z [debug] Requisição GET na rota /static/imgs/avatar.jpg
+2023-10-01T18:42:42.518Z [debug] Requisição GET na rota /favicon.ico
+2023-10-01T18:42:56.461Z [debug] Requisição GET na rota /api
+2023-10-01T18:43:07.599Z [debug] Requisição GET na rota /api/doc
+2023-10-01T18:45:00.228Z [info] Iniciando no ambiente development
+2023-10-01T18:45:00.231Z [info] Servidor pronto na porta 8080
+2023-10-01T18:45:45.130Z [info] Iniciando no ambiente development
+2023-10-01T18:45:45.133Z [info] Servidor pronto na porta 8080
+2023-10-01T18:46:01.641Z [info] Iniciando no ambiente development
+2023-10-01T18:46:01.645Z [info] Servidor pronto na porta 8080
+2023-10-01T18:46:04.840Z [info] Iniciando no ambiente development
+2023-10-01T18:46:04.843Z [info] Servidor pronto na porta 8080
+2023-10-01T18:46:07.455Z [info] Iniciando no ambiente development
+2023-10-01T18:46:07.458Z [info] Servidor pronto na porta 8080
+2023-10-01T18:46:11.833Z [info] Iniciando no ambiente development
+2023-10-01T18:46:11.840Z [info] Servidor pronto na porta 8080
+2023-10-01T18:46:33.980Z [info] Iniciando no ambiente development
+2023-10-01T18:46:33.985Z [info] Servidor pronto na porta 8080
+2023-10-01T18:46:50.325Z [info] Iniciando no ambiente development
+2023-10-01T18:46:50.328Z [info] Servidor pronto na porta 8080
+2023-10-01T18:47:49.851Z [debug] Requisição GET na rota /api/usuarios
+2023-10-01T18:49:08.321Z [info] Iniciando no ambiente development
+2023-10-01T18:49:08.325Z [info] Servidor pronto na porta 8080
+2023-10-01T18:49:10.522Z [info] Iniciando no ambiente development
+2023-10-01T18:49:10.533Z [info] Servidor pronto na porta 8080
+2023-10-01T18:49:42.373Z [info] Iniciando no ambiente development
+2023-10-01T18:49:42.377Z [info] Servidor pronto na porta 8080
+2023-10-01T18:49:51.197Z [info] Iniciando no ambiente development
+2023-10-01T18:49:51.202Z [info] Servidor pronto na porta 8080
+2023-10-01T18:49:53.493Z [info] Iniciando no ambiente development
+2023-10-01T18:49:53.496Z [info] Servidor pronto na porta 8080
+2023-10-01T18:49:58.364Z [info] Iniciando no ambiente development
+2023-10-01T18:49:58.367Z [info] Servidor pronto na porta 8080
+2023-10-01T18:50:04.998Z [info] Iniciando no ambiente development
+2023-10-01T18:50:05.001Z [info] Servidor pronto na porta 8080
+2023-10-01T18:50:22.960Z [info] Iniciando no ambiente development
+2023-10-01T18:50:22.963Z [info] Servidor pronto na porta 8080
+2023-10-01T18:50:36.535Z [info] Iniciando no ambiente development
+2023-10-01T18:50:36.538Z [info] Servidor pronto na porta 8080
+2023-10-01T18:50:58.413Z [info] Iniciando no ambiente development
+2023-10-01T18:50:58.417Z [info] Servidor pronto na porta 8080
+2023-10-01T18:51:14.216Z [info] Iniciando no ambiente development
+2023-10-01T18:51:14.222Z [info] Servidor pronto na porta 8080
+2023-10-01T18:51:27.870Z [info] Iniciando no ambiente development
+2023-10-01T18:51:27.902Z [info] Servidor pronto na porta 8080
+2023-10-01T18:51:32.280Z [info] Iniciando no ambiente development
+2023-10-01T18:51:32.286Z [info] Servidor pronto na porta 8080
+2023-10-01T18:51:35.234Z [info] Iniciando no ambiente development
+2023-10-01T18:51:35.238Z [info] Servidor pronto na porta 8080
+2023-10-01T18:51:41.638Z [info] Iniciando no ambiente development
+2023-10-01T18:51:41.641Z [info] Servidor pronto na porta 8080
+2023-10-01T18:51:48.982Z [info] Iniciando no ambiente development
+2023-10-01T18:51:48.986Z [info] Servidor pronto na porta 8080
+2023-10-01T18:51:54.214Z [info] Iniciando no ambiente development
+2023-10-01T18:51:54.218Z [info] Servidor pronto na porta 8080
+2023-10-01T18:52:05.133Z [info] Iniciando no ambiente development
+2023-10-01T18:52:05.136Z [info] Servidor pronto na porta 8080
+2023-10-01T18:52:09.208Z [info] Iniciando no ambiente development
+2023-10-01T18:52:09.211Z [info] Servidor pronto na porta 8080
+2023-10-01T18:52:20.045Z [info] Iniciando no ambiente development
+2023-10-01T18:52:20.056Z [info] Servidor pronto na porta 8080
+2023-10-01T18:52:22.128Z [info] Iniciando no ambiente development
+2023-10-01T18:52:22.134Z [info] Servidor pronto na porta 8080
+2023-10-01T18:52:28.804Z [info] Iniciando no ambiente development
+2023-10-01T18:52:28.807Z [info] Servidor pronto na porta 8080
+2023-10-01T18:52:31.644Z [info] Iniciando no ambiente development
+2023-10-01T18:52:31.647Z [info] Servidor pronto na porta 8080
+2023-10-01T18:52:44.399Z [debug] Requisição GET na rota /api/usuarios
+2023-10-01T18:53:10.659Z [debug] Requisição GET na rota /api/usuarios/3
+2023-10-01T18:53:38.508Z [info] Iniciando no ambiente development
+2023-10-01T18:53:38.513Z [info] Servidor pronto na porta 8080
+2023-10-01T18:53:46.536Z [info] Iniciando no ambiente development
+2023-10-01T18:53:46.539Z [info] Servidor pronto na porta 8080
+2023-10-01T18:53:50.104Z [debug] Requisição GET na rota /api/usuarios/3
+2023-10-01T18:55:20.060Z [info] Iniciando no ambiente development
+2023-10-01T18:55:20.063Z [info] Servidor pronto na porta 8080
+2023-10-01T18:55:24.653Z [info] Iniciando no ambiente development
+2023-10-01T18:55:24.656Z [info] Servidor pronto na porta 8080
+2023-10-01T18:55:32.569Z [info] Iniciando no ambiente development
+2023-10-01T18:55:32.574Z [info] Servidor pronto na porta 8080
+2023-10-01T18:55:40.179Z [info] Iniciando no ambiente development
+2023-10-01T18:55:40.182Z [info] Servidor pronto na porta 8080
+2023-10-01T18:55:57.543Z [info] Iniciando no ambiente development
+2023-10-01T18:55:57.546Z [info] Servidor pronto na porta 8080
+2023-10-01T18:55:59.534Z [info] Iniciando no ambiente development
+2023-10-01T18:55:59.538Z [info] Servidor pronto na porta 8080
+2023-10-01T18:56:04.200Z [info] Iniciando no ambiente development
+2023-10-01T18:56:04.204Z [info] Servidor pronto na porta 8080
+2023-10-01T18:56:10.964Z [info] Iniciando no ambiente development
+2023-10-01T18:56:10.967Z [info] Servidor pronto na porta 8080
+2023-10-01T18:56:13.422Z [info] Iniciando no ambiente development
+2023-10-01T18:56:13.426Z [info] Servidor pronto na porta 8080
+2023-10-01T18:56:18.733Z [info] Iniciando no ambiente development
+2023-10-01T18:56:18.740Z [info] Servidor pronto na porta 8080
+2023-10-01T18:57:04.221Z [info] Iniciando no ambiente development
+2023-10-01T18:57:04.224Z [info] Servidor pronto na porta 8080
+2023-10-01T18:57:07.588Z [info] Iniciando no ambiente development
+2023-10-01T18:57:07.592Z [info] Servidor pronto na porta 8080
+2023-10-01T18:57:10.780Z [info] Iniciando no ambiente development
+2023-10-01T18:57:10.784Z [info] Servidor pronto na porta 8080
+2023-10-01T22:46:12.385Z [info] Iniciando no ambiente development
+2023-10-01T22:46:12.388Z [info] Servidor pronto na porta 8080
+2023-10-01T22:46:38.868Z [info] Iniciando no ambiente development
+2023-10-01T22:46:38.872Z [info] Servidor pronto na porta 8080
+2023-10-01T22:46:41.698Z [info] Iniciando no ambiente development
+2023-10-01T22:46:41.702Z [info] Servidor pronto na porta 8080
+2023-10-01T22:46:43.668Z [info] Iniciando no ambiente development
+2023-10-01T22:46:43.671Z [info] Servidor pronto na porta 8080
+2023-10-01T22:46:49.561Z [info] Iniciando no ambiente development
+2023-10-01T22:46:49.570Z [info] Servidor pronto na porta 8080
+2023-10-01T22:46:52.125Z [info] Iniciando no ambiente development
+2023-10-01T22:46:52.128Z [info] Servidor pronto na porta 8080
+2023-10-01T22:46:56.858Z [info] Iniciando no ambiente development
+2023-10-01T22:46:56.862Z [info] Servidor pronto na porta 8080
+2023-10-01T22:46:58.425Z [info] Iniciando no ambiente development
+2023-10-01T22:46:58.428Z [info] Servidor pronto na porta 8080
+2023-10-01T22:47:02.249Z [info] Iniciando no ambiente development
+2023-10-01T22:47:02.254Z [info] Servidor pronto na porta 8080
+2023-10-01T22:47:19.114Z [info] Iniciando no ambiente development
+2023-10-01T22:47:19.117Z [info] Servidor pronto na porta 8080
+2023-10-01T22:47:23.782Z [info] Iniciando no ambiente development
+2023-10-01T22:47:23.785Z [info] Servidor pronto na porta 8080
+2023-10-01T22:47:25.553Z [info] Iniciando no ambiente development
+2023-10-01T22:47:25.556Z [info] Servidor pronto na porta 8080
+2023-10-01T22:47:31.390Z [info] Iniciando no ambiente development
+2023-10-01T22:47:31.395Z [info] Servidor pronto na porta 8080
+2023-10-01T22:47:40.342Z [info] Iniciando no ambiente development
+2023-10-01T22:47:40.345Z [info] Servidor pronto na porta 8080
+2023-10-01T22:47:55.393Z [info] Iniciando no ambiente development
+2023-10-01T22:47:55.398Z [info] Servidor pronto na porta 8080
+2023-10-01T22:49:05.482Z [debug] Requisição GET na rota /api/usuario
+2023-10-01T22:50:47.688Z [debug] Requisição GET na rota /api/usuario
+2023-10-01T22:50:58.147Z [debug] Requisição GET na rota /api/usuarios
+2023-10-01T22:51:39.042Z [info] Iniciando no ambiente development
+2023-10-01T22:51:39.045Z [info] Servidor pronto na porta 8080
+2023-10-01T22:51:42.403Z [info] Iniciando no ambiente development
+2023-10-01T22:51:42.406Z [info] Servidor pronto na porta 8080
+2023-10-01T22:51:52.955Z [info] Iniciando no ambiente development
+2023-10-01T22:51:52.958Z [info] Servidor pronto na porta 8080
+2023-10-01T22:52:38.634Z [info] Iniciando no ambiente development
+2023-10-01T22:52:38.638Z [info] Servidor pronto na porta 8080
+2023-10-01T22:52:40.824Z [info] Iniciando no ambiente development
+2023-10-01T22:52:40.833Z [info] Servidor pronto na porta 8080
+2023-10-01T22:52:42.566Z [info] Iniciando no ambiente development
+2023-10-01T22:52:42.570Z [info] Servidor pronto na porta 8080
+2023-10-01T22:52:48.225Z [info] Iniciando no ambiente development
+2023-10-01T22:52:48.230Z [info] Servidor pronto na porta 8080
+2023-10-01T22:52:58.601Z [info] Iniciando no ambiente development
+2023-10-01T22:52:58.604Z [info] Servidor pronto na porta 8080
+2023-10-01T22:53:02.311Z [info] Iniciando no ambiente development
+2023-10-01T22:53:02.316Z [info] Servidor pronto na porta 8080
+2023-10-01T22:53:04.908Z [info] Iniciando no ambiente development
+2023-10-01T22:53:04.914Z [info] Servidor pronto na porta 8080
+2023-10-01T22:53:08.975Z [info] Iniciando no ambiente development
+2023-10-01T22:53:08.980Z [info] Servidor pronto na porta 8080
+2023-10-01T22:53:19.209Z [info] Iniciando no ambiente development
+2023-10-01T22:53:19.213Z [info] Servidor pronto na porta 8080
+2023-10-01T22:53:24.431Z [info] Iniciando no ambiente development
+2023-10-01T22:53:24.435Z [info] Servidor pronto na porta 8080
+2023-10-01T22:53:35.103Z [info] Iniciando no ambiente development
+2023-10-01T22:53:35.106Z [info] Servidor pronto na porta 8080
+2023-10-01T22:53:51.248Z [info] Iniciando no ambiente development
+2023-10-01T22:53:51.251Z [info] Servidor pronto na porta 8080
+2023-10-01T22:53:54.479Z [info] Iniciando no ambiente development
+2023-10-01T22:53:54.483Z [info] Servidor pronto na porta 8080
+2023-10-01T22:53:56.257Z [info] Iniciando no ambiente development
+2023-10-01T22:53:56.265Z [info] Servidor pronto na porta 8080
+2023-10-01T22:53:59.211Z [info] Iniciando no ambiente development
+2023-10-01T22:53:59.215Z [info] Servidor pronto na porta 8080
+2023-10-01T22:54:06.050Z [info] Iniciando no ambiente development
+2023-10-01T22:54:06.053Z [info] Servidor pronto na porta 8080
+2023-10-01T22:54:17.107Z [info] Iniciando no ambiente development
+2023-10-01T22:54:17.112Z [info] Servidor pronto na porta 8080
+2023-10-01T22:54:22.375Z [info] Iniciando no ambiente development
+2023-10-01T22:54:22.379Z [info] Servidor pronto na porta 8080
+2023-10-01T22:54:26.532Z [info] Iniciando no ambiente development
+2023-10-01T22:54:26.536Z [info] Servidor pronto na porta 8080
+2023-10-01T22:54:30.310Z [info] Iniciando no ambiente development
+2023-10-01T22:54:30.313Z [info] Servidor pronto na porta 8080
+2023-10-01T22:54:32.998Z [info] Iniciando no ambiente development
+2023-10-01T22:54:33.002Z [info] Servidor pronto na porta 8080
+2023-10-01T22:54:36.237Z [info] Iniciando no ambiente development
+2023-10-01T22:54:36.241Z [info] Servidor pronto na porta 8080
+2023-10-01T22:54:40.955Z [info] Iniciando no ambiente development
+2023-10-01T22:54:40.960Z [info] Servidor pronto na porta 8080
+2023-10-01T22:54:44.276Z [info] Iniciando no ambiente development
+2023-10-01T22:54:44.279Z [info] Servidor pronto na porta 8080
+2023-10-01T22:54:47.175Z [info] Iniciando no ambiente development
+2023-10-01T22:54:47.178Z [info] Servidor pronto na porta 8080
+2023-10-01T22:54:50.115Z [info] Iniciando no ambiente development
+2023-10-01T22:54:50.118Z [info] Servidor pronto na porta 8080
+2023-10-01T22:54:53.016Z [info] Iniciando no ambiente development
+2023-10-01T22:54:53.019Z [info] Servidor pronto na porta 8080
+2023-10-01T22:55:18.872Z [info] Iniciando no ambiente development
+2023-10-01T22:55:18.876Z [info] Servidor pronto na porta 8080
+2023-10-01T22:55:24.944Z [info] Iniciando no ambiente development
+2023-10-01T22:55:24.947Z [info] Servidor pronto na porta 8080
+2023-10-01T22:55:31.196Z [info] Iniciando no ambiente development
+2023-10-01T22:55:31.199Z [info] Servidor pronto na porta 8080
+2023-10-01T22:55:33.132Z [info] Iniciando no ambiente development
+2023-10-01T22:55:33.135Z [info] Servidor pronto na porta 8080
+2023-10-01T22:55:37.075Z [info] Iniciando no ambiente development
+2023-10-01T22:55:37.078Z [info] Servidor pronto na porta 8080
+2023-10-01T22:55:38.749Z [info] Iniciando no ambiente development
+2023-10-01T22:55:38.752Z [info] Servidor pronto na porta 8080
+2023-10-01T22:55:42.661Z [info] Iniciando no ambiente development
+2023-10-01T22:55:42.664Z [info] Servidor pronto na porta 8080
+2023-10-01T22:55:48.892Z [info] Iniciando no ambiente development
+2023-10-01T22:55:48.896Z [info] Servidor pronto na porta 8080
+2023-10-01T22:55:53.743Z [info] Iniciando no ambiente development
+2023-10-01T22:55:53.746Z [info] Servidor pronto na porta 8080
+2023-10-01T22:55:58.549Z [info] Iniciando no ambiente development
+2023-10-01T22:55:58.553Z [info] Servidor pronto na porta 8080
+2023-10-01T22:56:01.309Z [info] Iniciando no ambiente development
+2023-10-01T22:56:01.312Z [info] Servidor pronto na porta 8080
+2023-10-01T22:56:05.130Z [info] Iniciando no ambiente development
+2023-10-01T22:56:05.133Z [info] Servidor pronto na porta 8080
+2023-10-01T22:56:07.170Z [info] Iniciando no ambiente development
+2023-10-01T22:56:07.174Z [info] Servidor pronto na porta 8080
+2023-10-01T22:56:10.243Z [info] Iniciando no ambiente development
+2023-10-01T22:56:10.246Z [info] Servidor pronto na porta 8080
+2023-10-01T22:56:11.750Z [info] Iniciando no ambiente development
+2023-10-01T22:56:11.755Z [info] Servidor pronto na porta 8080
+2023-10-01T22:56:16.658Z [info] Iniciando no ambiente development
+2023-10-01T22:56:16.662Z [info] Servidor pronto na porta 8080
+2023-10-01T22:56:19.827Z [info] Iniciando no ambiente development
+2023-10-01T22:56:19.830Z [info] Servidor pronto na porta 8080
+2023-10-01T22:56:22.192Z [info] Iniciando no ambiente development
+2023-10-01T22:56:22.196Z [info] Servidor pronto na porta 8080
+2023-10-01T22:56:30.017Z [info] Iniciando no ambiente development
+2023-10-01T22:56:30.021Z [info] Servidor pronto na porta 8080
+2023-10-01T22:56:34.463Z [info] Iniciando no ambiente development
+2023-10-01T22:56:34.466Z [info] Servidor pronto na porta 8080
+2023-10-01T22:56:37.055Z [info] Iniciando no ambiente development
+2023-10-01T22:56:37.058Z [info] Servidor pronto na porta 8080
+2023-10-01T22:56:39.095Z [info] Iniciando no ambiente development
+2023-10-01T22:56:39.098Z [info] Servidor pronto na porta 8080
+2023-10-01T22:56:44.361Z [info] Iniciando no ambiente development
+2023-10-01T22:56:44.364Z [info] Servidor pronto na porta 8080
+2023-10-01T22:56:51.375Z [info] Iniciando no ambiente development
+2023-10-01T22:56:51.379Z [info] Servidor pronto na porta 8080
+2023-10-01T22:56:54.334Z [info] Iniciando no ambiente development
+2023-10-01T22:56:54.338Z [info] Servidor pronto na porta 8080
+2023-10-01T22:56:57.559Z [info] Iniciando no ambiente development
+2023-10-01T22:56:57.562Z [info] Servidor pronto na porta 8080
+2023-10-01T22:57:02.305Z [info] Iniciando no ambiente development
+2023-10-01T22:57:02.308Z [info] Servidor pronto na porta 8080
+2023-10-01T22:57:07.702Z [info] Iniciando no ambiente development
+2023-10-01T22:57:07.705Z [info] Servidor pronto na porta 8080
+2023-10-01T22:57:12.104Z [info] Iniciando no ambiente development
+2023-10-01T22:57:12.107Z [info] Servidor pronto na porta 8080
+2023-10-01T22:57:20.503Z [info] Iniciando no ambiente development
+2023-10-01T22:57:20.506Z [info] Servidor pronto na porta 8080
+2023-10-01T22:57:34.775Z [info] Iniciando no ambiente development
+2023-10-01T22:57:34.779Z [info] Servidor pronto na porta 8080
+2023-10-01T22:57:41.763Z [info] Iniciando no ambiente development
+2023-10-01T22:57:41.767Z [info] Servidor pronto na porta 8080
+2023-10-01T22:57:56.677Z [info] Iniciando no ambiente development
+2023-10-01T22:57:56.682Z [info] Servidor pronto na porta 8080
+2023-10-01T22:58:08.929Z [info] Iniciando no ambiente development
+2023-10-01T22:58:08.934Z [info] Servidor pronto na porta 8080
+2023-10-01T22:58:15.954Z [info] Iniciando no ambiente development
+2023-10-01T22:58:15.957Z [info] Servidor pronto na porta 8080
+2023-10-01T22:58:19.630Z [info] Iniciando no ambiente development
+2023-10-01T22:58:19.633Z [info] Servidor pronto na porta 8080
+2023-10-01T22:58:25.623Z [info] Iniciando no ambiente development
+2023-10-01T22:58:25.626Z [info] Servidor pronto na porta 8080
+2023-10-01T22:58:47.937Z [info] Iniciando no ambiente development
+2023-10-01T22:58:47.940Z [info] Servidor pronto na porta 8080
+2023-10-01T22:58:52.022Z [info] Iniciando no ambiente development
+2023-10-01T22:58:52.025Z [info] Servidor pronto na porta 8080
+2023-10-01T22:58:56.484Z [info] Iniciando no ambiente development
+2023-10-01T22:58:56.487Z [info] Servidor pronto na porta 8080
+2023-10-01T22:58:58.793Z [info] Iniciando no ambiente development
+2023-10-01T22:58:58.797Z [info] Servidor pronto na porta 8080
+2023-10-01T22:59:03.590Z [info] Iniciando no ambiente development
+2023-10-01T22:59:03.594Z [info] Servidor pronto na porta 8080
+2023-10-01T22:59:06.678Z [info] Iniciando no ambiente development
+2023-10-01T22:59:06.681Z [info] Servidor pronto na porta 8080
+2023-10-01T22:59:09.199Z [info] Iniciando no ambiente development
+2023-10-01T22:59:09.202Z [info] Servidor pronto na porta 8080
+2023-10-01T23:00:00.053Z [info] Iniciando no ambiente development
+2023-10-01T23:00:00.057Z [info] Servidor pronto na porta 8080
+2023-10-01T23:02:24.519Z [info] Iniciando no ambiente development
+2023-10-01T23:02:24.521Z [info] Servidor pronto na porta 8080
+2023-10-01T23:02:34.891Z [info] Iniciando no ambiente development
+2023-10-01T23:02:34.894Z [info] Servidor pronto na porta 8080
+2023-10-01T23:03:18.070Z [info] Iniciando no ambiente development
+2023-10-01T23:03:18.073Z [info] Servidor pronto na porta 8080
+2023-10-01T23:06:36.201Z [debug] Requisição GET na rota /api/usuarios
+2023-10-01T23:06:42.959Z [debug] Requisição GET na rota /api/usuarios/3
+2023-10-01T23:08:26.591Z [info] Iniciando no ambiente development
+2023-10-01T23:08:26.594Z [info] Servidor pronto na porta 8080
+2023-10-01T23:08:48.162Z [info] Iniciando no ambiente development
+2023-10-01T23:08:48.166Z [info] Servidor pronto na porta 8080
+2023-10-01T23:08:51.928Z [info] Iniciando no ambiente development
+2023-10-01T23:08:51.931Z [info] Servidor pronto na porta 8080
+2023-10-01T23:09:44.082Z [info] Iniciando no ambiente development
+2023-10-01T23:09:44.085Z [info] Servidor pronto na porta 8080
+2023-10-01T23:09:51.455Z [info] Iniciando no ambiente development
+2023-10-01T23:09:51.459Z [info] Servidor pronto na porta 8080
+2023-10-01T23:09:56.768Z [debug] Requisição GET na rota /api/usuarios/3
+2023-10-01T23:10:14.287Z [info] Iniciando no ambiente development
+2023-10-01T23:10:14.290Z [info] Servidor pronto na porta 8080
+2023-10-01T23:10:16.792Z [debug] Requisição GET na rota /api/usuarios/3
+2023-10-01T23:10:29.284Z [info] Iniciando no ambiente development
+2023-10-01T23:10:29.287Z [info] Servidor pronto na porta 8080
+2023-10-01T23:10:30.149Z [debug] Requisição GET na rota /api/usuarios/3
+2023-10-01T23:10:41.979Z [debug] Requisição GET na rota /api/usuarios
+2023-10-01T23:12:19.265Z [debug] Requisição GET na rota /api/usuarios/100
+2023-10-01T23:14:12.946Z [debug] Requisição GET na rota /api/usuarios/3
+2023-10-01T23:17:06.262Z [info] Iniciando no ambiente development
+2023-10-01T23:17:06.266Z [info] Servidor pronto na porta 8080
+2023-10-01T23:17:21.598Z [info] Iniciando no ambiente development
+2023-10-01T23:17:21.601Z [info] Servidor pronto na porta 8080
+2023-10-01T23:17:23.921Z [info] Iniciando no ambiente development
+2023-10-01T23:17:23.926Z [info] Servidor pronto na porta 8080
+2023-10-01T23:17:29.040Z [info] Iniciando no ambiente development
+2023-10-01T23:17:29.045Z [info] Servidor pronto na porta 8080
+2023-10-01T23:17:32.055Z [info] Iniciando no ambiente development
+2023-10-01T23:17:32.060Z [info] Servidor pronto na porta 8080
+2023-10-01T23:17:54.768Z [info] Iniciando no ambiente development
+2023-10-01T23:17:54.775Z [info] Servidor pronto na porta 8080
+2023-10-01T23:18:13.867Z [info] Iniciando no ambiente development
+2023-10-01T23:18:13.871Z [info] Servidor pronto na porta 8080
+2023-10-01T23:18:16.561Z [info] Iniciando no ambiente development
+2023-10-01T23:18:16.565Z [info] Servidor pronto na porta 8080
+2023-10-01T23:19:29.192Z [debug] Requisição DELETE na rota /api/usuarios
+2023-10-01T23:19:54.162Z [debug] Requisição DELETE na rota /api/usuarios
+2023-10-01T23:19:58.691Z [debug] Requisição DELETE na rota /api/usuarios
+2023-10-01T23:20:34.804Z [debug] Requisição GET na rota /api/usuarios/100
+2023-10-01T23:20:41.872Z [debug] Requisição GET na rota /api/usuarios/
+2023-10-01T23:22:15.802Z [info] Iniciando no ambiente development
+2023-10-01T23:22:15.806Z [info] Servidor pronto na porta 8080
+2023-10-01T23:22:45.281Z [info] Iniciando no ambiente development
+2023-10-01T23:22:45.284Z [info] Servidor pronto na porta 8080
+2023-10-01T23:22:47.580Z [info] Iniciando no ambiente development
+2023-10-01T23:22:47.583Z [info] Servidor pronto na porta 8080
+2023-10-01T23:22:58.838Z [info] Iniciando no ambiente development
+2023-10-01T23:22:58.846Z [info] Servidor pronto na porta 8080
+2023-10-01T23:23:28.945Z [info] Iniciando no ambiente development
+2023-10-01T23:23:28.948Z [info] Servidor pronto na porta 8080
+2023-10-01T23:23:33.491Z [info] Iniciando no ambiente development
+2023-10-01T23:23:33.494Z [info] Servidor pronto na porta 8080
+2023-10-01T23:24:02.859Z [info] Iniciando no ambiente development
+2023-10-01T23:24:02.863Z [info] Servidor pronto na porta 8080
+2023-10-01T23:25:31.988Z [info] Iniciando no ambiente development
+2023-10-01T23:25:31.991Z [info] Servidor pronto na porta 8080
+2023-10-01T23:25:55.211Z [info] Iniciando no ambiente development
+2023-10-01T23:25:55.217Z [info] Servidor pronto na porta 8080
+2023-10-01T23:25:59.343Z [info] Iniciando no ambiente development
+2023-10-01T23:25:59.346Z [info] Servidor pronto na porta 8080
+2023-10-01T23:26:03.493Z [info] Iniciando no ambiente development
+2023-10-01T23:26:03.496Z [info] Servidor pronto na porta 8080
+2023-10-01T23:26:06.292Z [info] Iniciando no ambiente development
+2023-10-01T23:26:06.295Z [info] Servidor pronto na porta 8080
+2023-10-01T23:26:12.363Z [info] Iniciando no ambiente development
+2023-10-01T23:26:12.371Z [info] Servidor pronto na porta 8080
+2023-10-01T23:26:19.026Z [info] Iniciando no ambiente development
+2023-10-01T23:26:19.030Z [info] Servidor pronto na porta 8080
+2023-10-01T23:26:28.065Z [info] Iniciando no ambiente development
+2023-10-01T23:26:28.069Z [info] Servidor pronto na porta 8080
+2023-10-01T23:26:30.273Z [info] Iniciando no ambiente development
+2023-10-01T23:26:30.276Z [info] Servidor pronto na porta 8080
+2023-10-01T23:26:36.238Z [info] Iniciando no ambiente development
+2023-10-01T23:26:36.241Z [info] Servidor pronto na porta 8080
+2023-10-01T23:26:43.084Z [info] Iniciando no ambiente development
+2023-10-01T23:26:43.088Z [info] Servidor pronto na porta 8080
+2023-10-01T23:26:57.597Z [info] Iniciando no ambiente development
+2023-10-01T23:26:57.600Z [info] Servidor pronto na porta 8080
+2023-10-01T23:27:01.215Z [info] Iniciando no ambiente development
+2023-10-01T23:27:01.218Z [info] Servidor pronto na porta 8080
+2023-10-01T23:27:06.847Z [info] Iniciando no ambiente development
+2023-10-01T23:27:06.850Z [info] Servidor pronto na porta 8080
+2023-10-01T23:27:09.832Z [info] Iniciando no ambiente development
+2023-10-01T23:27:09.835Z [info] Servidor pronto na porta 8080
+2023-10-01T23:28:08.237Z [info] Iniciando no ambiente development
+2023-10-01T23:28:08.240Z [info] Servidor pronto na porta 8080
+2023-10-01T23:28:28.594Z [info] Iniciando no ambiente development
+2023-10-01T23:28:28.602Z [info] Servidor pronto na porta 8080
+2023-10-01T23:28:33.004Z [info] Iniciando no ambiente development
+2023-10-01T23:28:33.009Z [info] Servidor pronto na porta 8080
+2023-10-01T23:28:34.970Z [info] Iniciando no ambiente development
+2023-10-01T23:28:34.973Z [info] Servidor pronto na porta 8080
+2023-10-01T23:28:38.168Z [info] Iniciando no ambiente development
+2023-10-01T23:28:38.171Z [info] Servidor pronto na porta 8080
+2023-10-01T23:28:50.031Z [info] Iniciando no ambiente development
+2023-10-01T23:28:50.034Z [info] Servidor pronto na porta 8080
+2023-10-01T23:28:52.764Z [info] Iniciando no ambiente development
+2023-10-01T23:28:52.767Z [info] Servidor pronto na porta 8080
+2023-10-01T23:28:55.767Z [info] Iniciando no ambiente development
+2023-10-01T23:28:55.770Z [info] Servidor pronto na porta 8080
+2023-10-01T23:29:00.071Z [info] Iniciando no ambiente development
+2023-10-01T23:29:00.079Z [info] Servidor pronto na porta 8080
+2023-10-01T23:29:01.822Z [info] Iniciando no ambiente development
+2023-10-01T23:29:01.826Z [info] Servidor pronto na porta 8080
+2023-10-01T23:29:03.915Z [info] Iniciando no ambiente development
+2023-10-01T23:29:03.918Z [info] Servidor pronto na porta 8080
+2023-10-01T23:29:10.603Z [info] Iniciando no ambiente development
+2023-10-01T23:29:10.606Z [info] Servidor pronto na porta 8080
+2023-10-01T23:29:37.308Z [info] Iniciando no ambiente development
+2023-10-01T23:29:37.311Z [info] Servidor pronto na porta 8080
+2023-10-01T23:29:44.879Z [info] Iniciando no ambiente development
+2023-10-01T23:29:44.883Z [info] Servidor pronto na porta 8080
+2023-10-01T23:29:47.849Z [info] Iniciando no ambiente development
+2023-10-01T23:29:47.852Z [info] Servidor pronto na porta 8080
+2023-10-01T23:29:52.630Z [info] Iniciando no ambiente development
+2023-10-01T23:29:52.633Z [info] Servidor pronto na porta 8080
+2023-10-01T23:29:54.971Z [info] Iniciando no ambiente development
+2023-10-01T23:29:54.975Z [info] Servidor pronto na porta 8080
+2023-10-01T23:30:00.134Z [info] Iniciando no ambiente development
+2023-10-01T23:30:00.138Z [info] Servidor pronto na porta 8080
+2023-10-01T23:30:04.035Z [info] Iniciando no ambiente development
+2023-10-01T23:30:04.042Z [info] Servidor pronto na porta 8080
+2023-10-01T23:30:06.391Z [info] Iniciando no ambiente development
+2023-10-01T23:30:06.394Z [info] Servidor pronto na porta 8080
+2023-10-01T23:30:10.851Z [info] Iniciando no ambiente development
+2023-10-01T23:30:10.856Z [info] Servidor pronto na porta 8080
+2023-10-01T23:30:15.841Z [info] Iniciando no ambiente development
+2023-10-01T23:30:15.844Z [info] Servidor pronto na porta 8080
+2023-10-01T23:30:20.960Z [info] Iniciando no ambiente development
+2023-10-01T23:30:20.964Z [info] Servidor pronto na porta 8080
+2023-10-01T23:30:26.335Z [info] Iniciando no ambiente development
+2023-10-01T23:30:26.339Z [info] Servidor pronto na porta 8080
+2023-10-01T23:30:36.824Z [info] Iniciando no ambiente development
+2023-10-01T23:30:36.827Z [info] Servidor pronto na porta 8080
+2023-10-01T23:33:32.669Z [debug] Requisição GET na rota /api/usuarios/
+2023-10-01T23:33:40.387Z [debug] Requisição POST na rota /api/usuarios
+2023-10-01T23:33:48.429Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T23:34:32.311Z [info] Iniciando no ambiente development
+2023-10-01T23:34:32.315Z [info] Servidor pronto na porta 8080
+2023-10-01T23:34:37.644Z [info] Iniciando no ambiente development
+2023-10-01T23:34:37.648Z [info] Servidor pronto na porta 8080
+2023-10-01T23:34:42.002Z [info] Iniciando no ambiente development
+2023-10-01T23:34:42.006Z [info] Servidor pronto na porta 8080
+2023-10-01T23:34:48.587Z [info] Iniciando no ambiente development
+2023-10-01T23:34:48.592Z [info] Servidor pronto na porta 8080
+2023-10-01T23:34:52.794Z [info] Iniciando no ambiente development
+2023-10-01T23:34:52.799Z [info] Servidor pronto na porta 8080
+2023-10-01T23:34:58.981Z [info] Iniciando no ambiente development
+2023-10-01T23:34:58.984Z [info] Servidor pronto na porta 8080
+2023-10-01T23:35:01.195Z [info] Iniciando no ambiente development
+2023-10-01T23:35:01.199Z [info] Servidor pronto na porta 8080
+2023-10-01T23:35:04.637Z [info] Iniciando no ambiente development
+2023-10-01T23:35:04.641Z [info] Servidor pronto na porta 8080
+2023-10-01T23:35:31.725Z [info] Iniciando no ambiente development
+2023-10-01T23:35:31.729Z [info] Servidor pronto na porta 8080
+2023-10-01T23:35:36.657Z [info] Iniciando no ambiente development
+2023-10-01T23:35:36.664Z [info] Servidor pronto na porta 8080
+2023-10-01T23:35:41.052Z [info] Iniciando no ambiente development
+2023-10-01T23:35:41.056Z [info] Servidor pronto na porta 8080
+2023-10-01T23:35:44.310Z [info] Iniciando no ambiente development
+2023-10-01T23:35:44.314Z [info] Servidor pronto na porta 8080
+2023-10-01T23:35:54.913Z [info] Iniciando no ambiente development
+2023-10-01T23:35:54.917Z [info] Servidor pronto na porta 8080
+2023-10-01T23:36:13.250Z [info] Iniciando no ambiente development
+2023-10-01T23:36:13.258Z [info] Servidor pronto na porta 8080
+2023-10-01T23:36:50.263Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T23:37:06.744Z [info] Iniciando no ambiente development
+2023-10-01T23:37:06.747Z [info] Servidor pronto na porta 8080
+2023-10-01T23:38:05.628Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T23:39:36.501Z [info] Iniciando no ambiente development
+2023-10-01T23:39:36.504Z [info] Servidor pronto na porta 8080
+2023-10-01T23:39:56.643Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T23:40:01.045Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T23:41:45.227Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T23:42:40.695Z [info] Iniciando no ambiente development
+2023-10-01T23:42:40.699Z [info] Servidor pronto na porta 8080
+2023-10-01T23:43:00.822Z [info] Iniciando no ambiente development
+2023-10-01T23:43:00.825Z [info] Servidor pronto na porta 8080
+2023-10-01T23:43:10.670Z [info] Iniciando no ambiente development
+2023-10-01T23:43:10.673Z [info] Servidor pronto na porta 8080
+2023-10-01T23:43:14.689Z [info] Iniciando no ambiente development
+2023-10-01T23:43:14.692Z [info] Servidor pronto na porta 8080
+2023-10-01T23:43:29.114Z [info] Iniciando no ambiente development
+2023-10-01T23:43:29.119Z [info] Servidor pronto na porta 8080
+2023-10-01T23:43:35.016Z [info] Iniciando no ambiente development
+2023-10-01T23:43:35.020Z [info] Servidor pronto na porta 8080
+2023-10-01T23:43:38.689Z [info] Iniciando no ambiente development
+2023-10-01T23:43:38.693Z [info] Servidor pronto na porta 8080
+2023-10-01T23:44:25.393Z [info] Iniciando no ambiente development
+2023-10-01T23:44:25.402Z [info] Servidor pronto na porta 8080
+2023-10-01T23:44:32.185Z [info] Iniciando no ambiente development
+2023-10-01T23:44:32.189Z [info] Servidor pronto na porta 8080
+2023-10-01T23:44:39.688Z [info] Iniciando no ambiente development
+2023-10-01T23:44:39.691Z [info] Servidor pronto na porta 8080
+2023-10-01T23:44:44.161Z [info] Iniciando no ambiente development
+2023-10-01T23:44:44.166Z [info] Servidor pronto na porta 8080
+2023-10-01T23:44:46.880Z [info] Iniciando no ambiente development
+2023-10-01T23:44:46.883Z [info] Servidor pronto na porta 8080
+2023-10-01T23:45:40.258Z [info] Iniciando no ambiente development
+2023-10-01T23:45:40.261Z [info] Servidor pronto na porta 8080
+2023-10-01T23:45:44.134Z [info] Iniciando no ambiente development
+2023-10-01T23:45:44.137Z [info] Servidor pronto na porta 8080
+2023-10-01T23:45:48.120Z [info] Iniciando no ambiente development
+2023-10-01T23:45:48.124Z [info] Servidor pronto na porta 8080
+2023-10-01T23:45:51.447Z [info] Iniciando no ambiente development
+2023-10-01T23:45:51.453Z [info] Servidor pronto na porta 8080
+2023-10-01T23:45:53.572Z [info] Iniciando no ambiente development
+2023-10-01T23:45:53.576Z [info] Servidor pronto na porta 8080
+2023-10-01T23:45:57.632Z [info] Iniciando no ambiente development
+2023-10-01T23:45:57.636Z [info] Servidor pronto na porta 8080
+2023-10-01T23:46:00.264Z [info] Iniciando no ambiente development
+2023-10-01T23:46:00.267Z [info] Servidor pronto na porta 8080
+2023-10-01T23:46:04.838Z [info] Iniciando no ambiente development
+2023-10-01T23:46:04.842Z [info] Servidor pronto na porta 8080
+2023-10-01T23:46:11.664Z [info] Iniciando no ambiente development
+2023-10-01T23:46:11.667Z [info] Servidor pronto na porta 8080
+2023-10-01T23:46:19.456Z [info] Iniciando no ambiente development
+2023-10-01T23:46:19.463Z [info] Servidor pronto na porta 8080
+2023-10-01T23:46:25.211Z [info] Iniciando no ambiente development
+2023-10-01T23:46:25.214Z [info] Servidor pronto na porta 8080
+2023-10-01T23:46:27.514Z [info] Iniciando no ambiente development
+2023-10-01T23:46:27.517Z [info] Servidor pronto na porta 8080
+2023-10-01T23:46:32.520Z [info] Iniciando no ambiente development
+2023-10-01T23:46:32.523Z [info] Servidor pronto na porta 8080
+2023-10-01T23:46:37.800Z [info] Iniciando no ambiente development
+2023-10-01T23:46:37.803Z [info] Servidor pronto na porta 8080
+2023-10-01T23:46:40.768Z [info] Iniciando no ambiente development
+2023-10-01T23:46:40.771Z [info] Servidor pronto na porta 8080
+2023-10-01T23:46:45.214Z [info] Iniciando no ambiente development
+2023-10-01T23:46:45.217Z [info] Servidor pronto na porta 8080
+2023-10-01T23:46:50.591Z [info] Iniciando no ambiente development
+2023-10-01T23:46:50.596Z [info] Servidor pronto na porta 8080
+2023-10-01T23:47:21.251Z [info] Iniciando no ambiente development
+2023-10-01T23:47:21.256Z [info] Servidor pronto na porta 8080
+2023-10-01T23:47:28.394Z [info] Iniciando no ambiente development
+2023-10-01T23:47:28.397Z [info] Servidor pronto na porta 8080
+2023-10-01T23:47:30.214Z [info] Iniciando no ambiente development
+2023-10-01T23:47:30.217Z [info] Servidor pronto na porta 8080
+2023-10-01T23:47:32.752Z [info] Iniciando no ambiente development
+2023-10-01T23:47:32.755Z [info] Servidor pronto na porta 8080
+2023-10-01T23:47:37.181Z [info] Iniciando no ambiente development
+2023-10-01T23:47:37.184Z [info] Servidor pronto na porta 8080
+2023-10-01T23:47:41.476Z [info] Iniciando no ambiente development
+2023-10-01T23:47:41.479Z [info] Servidor pronto na porta 8080
+2023-10-01T23:47:43.569Z [info] Iniciando no ambiente development
+2023-10-01T23:47:43.574Z [info] Servidor pronto na porta 8080
+2023-10-01T23:47:45.660Z [info] Iniciando no ambiente development
+2023-10-01T23:47:45.664Z [info] Servidor pronto na porta 8080
+2023-10-01T23:47:59.007Z [info] Iniciando no ambiente development
+2023-10-01T23:47:59.011Z [info] Servidor pronto na porta 8080
+2023-10-01T23:48:07.626Z [info] Iniciando no ambiente development
+2023-10-01T23:48:07.630Z [info] Servidor pronto na porta 8080
+2023-10-01T23:48:10.943Z [info] Iniciando no ambiente development
+2023-10-01T23:48:10.946Z [info] Servidor pronto na porta 8080
+2023-10-01T23:48:19.602Z [info] Iniciando no ambiente development
+2023-10-01T23:48:19.605Z [info] Servidor pronto na porta 8080
+2023-10-01T23:48:23.859Z [info] Iniciando no ambiente development
+2023-10-01T23:48:23.864Z [info] Servidor pronto na porta 8080
+2023-10-01T23:48:31.450Z [info] Iniciando no ambiente development
+2023-10-01T23:48:31.454Z [info] Servidor pronto na porta 8080
+2023-10-01T23:48:42.461Z [info] Iniciando no ambiente development
+2023-10-01T23:48:42.467Z [info] Servidor pronto na porta 8080
+2023-10-01T23:48:47.287Z [info] Iniciando no ambiente development
+2023-10-01T23:48:47.290Z [info] Servidor pronto na porta 8080
+2023-10-01T23:49:02.577Z [info] Iniciando no ambiente development
+2023-10-01T23:49:02.589Z [info] Servidor pronto na porta 8080
+2023-10-01T23:49:04.894Z [info] Iniciando no ambiente development
+2023-10-01T23:49:07.465Z [info] Iniciando no ambiente development
+2023-10-01T23:49:07.469Z [info] Servidor pronto na porta 8080
+2023-10-01T23:49:09.485Z [info] Iniciando no ambiente development
+2023-10-01T23:49:09.488Z [info] Servidor pronto na porta 8080
+2023-10-01T23:49:15.759Z [info] Iniciando no ambiente development
+2023-10-01T23:49:15.762Z [info] Servidor pronto na porta 8080
+2023-10-01T23:49:24.499Z [info] Iniciando no ambiente development
+2023-10-01T23:49:24.510Z [info] Servidor pronto na porta 8080
+2023-10-01T23:49:33.795Z [info] Iniciando no ambiente development
+2023-10-01T23:49:33.803Z [info] Servidor pronto na porta 8080
+2023-10-01T23:49:42.143Z [info] Iniciando no ambiente development
+2023-10-01T23:49:42.147Z [info] Servidor pronto na porta 8080
+2023-10-01T23:49:46.033Z [info] Iniciando no ambiente development
+2023-10-01T23:49:46.037Z [info] Servidor pronto na porta 8080
+2023-10-01T23:49:50.140Z [info] Iniciando no ambiente development
+2023-10-01T23:49:50.144Z [info] Servidor pronto na porta 8080
+2023-10-01T23:49:59.667Z [info] Iniciando no ambiente development
+2023-10-01T23:49:59.671Z [info] Servidor pronto na porta 8080
+2023-10-01T23:50:03.165Z [info] Iniciando no ambiente development
+2023-10-01T23:50:03.172Z [info] Servidor pronto na porta 8080
+2023-10-01T23:50:06.268Z [info] Iniciando no ambiente development
+2023-10-01T23:50:06.272Z [info] Servidor pronto na porta 8080
+2023-10-01T23:50:14.234Z [info] Iniciando no ambiente development
+2023-10-01T23:50:14.237Z [info] Servidor pronto na porta 8080
+2023-10-01T23:51:00.917Z [info] Iniciando no ambiente development
+2023-10-01T23:51:00.920Z [info] Servidor pronto na porta 8080
+2023-10-01T23:51:48.622Z [info] Iniciando no ambiente development
+2023-10-01T23:51:48.627Z [info] Servidor pronto na porta 8080
+2023-10-01T23:51:58.209Z [info] Iniciando no ambiente development
+2023-10-01T23:51:58.213Z [info] Servidor pronto na porta 8080
+2023-10-01T23:52:10.888Z [info] Iniciando no ambiente development
+2023-10-01T23:52:10.892Z [info] Servidor pronto na porta 8080
+2023-10-01T23:52:20.636Z [info] Iniciando no ambiente development
+2023-10-01T23:52:20.642Z [info] Servidor pronto na porta 8080
+2023-10-01T23:52:23.453Z [info] Iniciando no ambiente development
+2023-10-01T23:52:23.457Z [info] Servidor pronto na porta 8080
+2023-10-01T23:52:28.994Z [info] Iniciando no ambiente development
+2023-10-01T23:52:28.997Z [info] Servidor pronto na porta 8080
+2023-10-01T23:52:34.753Z [info] Iniciando no ambiente development
+2023-10-01T23:52:34.756Z [info] Servidor pronto na porta 8080
+2023-10-01T23:52:39.269Z [info] Iniciando no ambiente development
+2023-10-01T23:52:39.273Z [info] Servidor pronto na porta 8080
+2023-10-01T23:52:42.823Z [info] Iniciando no ambiente development
+2023-10-01T23:52:42.826Z [info] Servidor pronto na porta 8080
+2023-10-01T23:52:51.689Z [info] Iniciando no ambiente development
+2023-10-01T23:52:51.693Z [info] Servidor pronto na porta 8080
+2023-10-01T23:53:52.596Z [info] Iniciando no ambiente development
+2023-10-01T23:53:52.599Z [info] Servidor pronto na porta 8080
+2023-10-01T23:54:04.343Z [info] Iniciando no ambiente development
+2023-10-01T23:54:04.346Z [info] Servidor pronto na porta 8080
+2023-10-01T23:54:11.980Z [info] Iniciando no ambiente development
+2023-10-01T23:54:11.983Z [info] Servidor pronto na porta 8080
+2023-10-01T23:54:18.776Z [info] Iniciando no ambiente development
+2023-10-01T23:54:18.780Z [info] Servidor pronto na porta 8080
+2023-10-01T23:54:32.940Z [info] Iniciando no ambiente development
+2023-10-01T23:54:32.943Z [info] Servidor pronto na porta 8080
+2023-10-01T23:54:35.051Z [info] Iniciando no ambiente development
+2023-10-01T23:54:35.054Z [info] Servidor pronto na porta 8080
+2023-10-01T23:54:36.946Z [info] Iniciando no ambiente development
+2023-10-01T23:54:36.949Z [info] Servidor pronto na porta 8080
+2023-10-01T23:54:48.725Z [info] Iniciando no ambiente development
+2023-10-01T23:54:48.729Z [info] Servidor pronto na porta 8080
+2023-10-01T23:54:57.032Z [info] Iniciando no ambiente development
+2023-10-01T23:54:57.036Z [info] Servidor pronto na porta 8080
+2023-10-01T23:55:01.810Z [info] Iniciando no ambiente development
+2023-10-01T23:55:01.813Z [info] Servidor pronto na porta 8080
+2023-10-01T23:55:06.182Z [info] Iniciando no ambiente development
+2023-10-01T23:55:06.185Z [info] Servidor pronto na porta 8080
+2023-10-01T23:55:08.982Z [info] Iniciando no ambiente development
+2023-10-01T23:55:08.985Z [info] Servidor pronto na porta 8080
+2023-10-01T23:56:58.933Z [debug] Requisição POST na rota /api/produtos
+2023-10-01T23:58:33.748Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T23:58:57.906Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T23:59:00.310Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T23:59:01.088Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T23:59:01.758Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-01T23:59:02.422Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-02T00:01:05.946Z [debug] Requisição POST na rota /api/produtos
+2023-10-02T00:01:53.234Z [debug] Requisição POST na rota /api/produtos
+2023-10-02T00:02:37.999Z [info] Iniciando no ambiente development
+2023-10-02T00:02:38.002Z [info] Servidor pronto na porta 8080
+2023-10-02T00:03:25.819Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-02T00:04:15.542Z [debug] Requisição POST na rota /api/produtos
+2023-10-02T00:04:21.527Z [debug] Requisição POST na rota /api/produtos
+2023-10-02T00:04:36.192Z [debug] Requisição POST na rota /api/produtos
+2023-10-02T00:05:20.994Z [debug] Requisição POST na rota /api/produtos
+2023-10-02T00:05:25.744Z [debug] Requisição POST na rota /api/produtos
+2023-10-02T00:05:35.695Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-02T00:06:00.412Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-02T00:08:52.518Z [info] Iniciando no ambiente development
+2023-10-02T00:08:52.521Z [info] Servidor pronto na porta 8080
+2023-10-02T00:08:56.887Z [info] Iniciando no ambiente development
+2023-10-02T00:08:56.892Z [info] Servidor pronto na porta 8080
+2023-10-02T00:09:21.793Z [info] Iniciando no ambiente development
+2023-10-02T00:09:21.796Z [info] Servidor pronto na porta 8080
+2023-10-02T00:09:44.420Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-02T00:09:48.601Z [debug] Requisição GET na rota /api/usuarios/
+2023-10-02T00:10:12.350Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-02T00:10:31.845Z [debug] Requisição POST na rota /api/produtos
+2023-10-02T00:11:04.517Z [debug] Requisição POST na rota /api/produtos
+2023-10-02T00:11:45.622Z [info] Iniciando no ambiente development
+2023-10-02T00:11:45.625Z [info] Servidor pronto na porta 8080
+2023-10-02T00:11:50.903Z [debug] Requisição POST na rota /api/produtos
+2023-10-02T00:12:12.375Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-02T00:13:05.068Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-02T00:13:28.647Z [debug] Requisição POST na rota /api/produtos
+2023-10-02T00:13:45.492Z [debug] Requisição POST na rota /api/produtos
+2023-10-03T11:19:16.239Z [info] Iniciando no ambiente development
+2023-10-03T11:19:16.242Z [info] Servidor pronto na porta 8080
+2023-10-03T11:22:03.573Z [info] Iniciando no ambiente development
+2023-10-03T11:22:03.577Z [info] Servidor pronto na porta 8080
+2023-10-03T11:22:06.539Z [info] Iniciando no ambiente development
+2023-10-03T11:22:06.542Z [info] Servidor pronto na porta 8080
+2023-10-03T11:25:43.638Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-03T11:26:29.295Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-03T11:27:00.043Z [debug] Requisição POST na rota /api/produtos
+2023-10-03T11:27:28.827Z [debug] Requisição POST na rota /api/produtos
+2023-10-03T11:28:28.226Z [info] Iniciando no ambiente development
+2023-10-03T11:28:28.233Z [info] Servidor pronto na porta 8080
+2023-10-03T11:29:24.801Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-03T11:29:46.479Z [debug] Requisição POST na rota /api/produtos
+2023-10-03T11:30:43.041Z [debug] Requisição POST na rota /api/produtos
+2023-10-03T11:32:41.251Z [debug] Requisição POST na rota /api/usuarios
+2023-10-03T11:32:48.614Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-03T11:33:50.395Z [info] Iniciando no ambiente development
+2023-10-03T11:33:50.399Z [info] Servidor pronto na porta 8080
+2023-10-03T11:33:53.315Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-03T11:34:15.065Z [info] Iniciando no ambiente development
+2023-10-03T11:34:15.069Z [info] Servidor pronto na porta 8080
+2023-10-03T12:42:39.348Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-03T12:42:57.821Z [debug] Requisição POST na rota /api/produtos
+2023-10-03T12:43:25.134Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-03T12:46:26.650Z [debug] Requisição POST na rota /api/produtos
+2023-10-03T12:47:09.178Z [debug] Requisição POST na rota /api/produtos
+2023-10-03T12:48:04.056Z [info] Iniciando no ambiente development
+2023-10-03T12:48:04.061Z [info] Servidor pronto na porta 8080
+2023-10-03T12:48:05.935Z [info] Iniciando no ambiente development
+2023-10-03T12:48:05.938Z [info] Servidor pronto na porta 8080
+2023-10-03T12:48:10.121Z [debug] Requisição POST na rota /api/produtos
+2023-10-03T12:48:18.699Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-03T12:48:37.849Z [debug] Requisição POST na rota /api/produtos
+2023-10-03T12:48:43.616Z [debug] Requisição POST na rota /api/produtos
+2023-10-03T12:55:06.959Z [info] Iniciando no ambiente development
+2023-10-03T12:55:06.971Z [info] Servidor pronto na porta 8080
+2023-10-03T12:55:22.317Z [info] Iniciando no ambiente development
+2023-10-03T12:55:22.320Z [info] Servidor pronto na porta 8080
+2023-10-03T12:55:38.858Z [info] Iniciando no ambiente development
+2023-10-03T12:55:38.863Z [info] Servidor pronto na porta 8080
+2023-10-03T12:55:44.928Z [info] Iniciando no ambiente development
+2023-10-03T12:55:44.932Z [info] Servidor pronto na porta 8080
+2023-10-03T12:56:26.132Z [info] Iniciando no ambiente development
+2023-10-03T12:56:26.135Z [info] Servidor pronto na porta 8080
+2023-10-03T12:56:42.972Z [info] Iniciando no ambiente development
+2023-10-03T12:56:42.976Z [info] Servidor pronto na porta 8080
+2023-10-03T12:57:19.833Z [info] Iniciando no ambiente development
+2023-10-03T12:57:19.837Z [info] Servidor pronto na porta 8080
+2023-10-03T17:57:35.308Z [info] Iniciando no ambiente development
+2023-10-03T17:57:35.313Z [info] Servidor pronto na porta 8080
+2023-10-03T18:03:26.213Z [info] Iniciando no ambiente development
+2023-10-03T18:03:26.216Z [info] Servidor pronto na porta 8080
+2023-10-03T18:06:53.418Z [info] Iniciando no ambiente development
+2023-10-03T18:06:53.421Z [info] Servidor pronto na porta 8080
+2023-10-03T18:07:04.878Z [info] Iniciando no ambiente development
+2023-10-03T18:07:04.881Z [info] Servidor pronto na porta 8080
+2023-10-03T18:08:04.876Z [info] Iniciando no ambiente development
+2023-10-03T18:08:04.886Z [info] Servidor pronto na porta 8080
+2023-10-03T18:08:11.762Z [info] Iniciando no ambiente development
+2023-10-03T18:08:11.766Z [info] Servidor pronto na porta 8080
+2023-10-03T18:08:17.147Z [info] Iniciando no ambiente development
+2023-10-03T18:08:17.151Z [info] Servidor pronto na porta 8080
+2023-10-03T18:08:22.274Z [info] Iniciando no ambiente development
+2023-10-03T18:08:22.277Z [info] Servidor pronto na porta 8080
+2023-10-03T18:18:11.408Z [debug] Requisição GET na rota /api/usuarios
+2023-10-03T18:18:26.830Z [debug] Requisição DELETE na rota /api/usuarios
+2023-10-03T18:18:34.199Z [debug] Requisição GET na rota /api/usuarios
+2023-10-03T18:21:49.169Z [debug] Requisição GET na rota /api/usuarios/4
+2023-10-03T18:24:46.997Z [info] Iniciando no ambiente development
+2023-10-03T18:24:47.001Z [info] Servidor pronto na porta 8080
+2023-10-03T18:31:44.144Z [info] Iniciando no ambiente development
+2023-10-03T18:31:44.147Z [info] Servidor pronto na porta 8080
+2023-10-03T18:31:46.049Z [info] Iniciando no ambiente development
+2023-10-03T18:31:46.052Z [info] Servidor pronto na porta 8080
+2023-10-03T18:31:57.133Z [info] Iniciando no ambiente development
+2023-10-03T18:31:57.136Z [info] Servidor pronto na porta 8080
+2023-10-03T18:32:00.359Z [info] Iniciando no ambiente development
+2023-10-03T18:32:00.363Z [info] Servidor pronto na porta 8080
+2023-10-03T18:35:56.673Z [debug] Requisição POST na rota /api/usuarios
+2023-10-03T18:36:15.229Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-03T18:37:29.307Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-03T18:37:41.009Z [info] Iniciando no ambiente development
+2023-10-03T18:37:41.014Z [info] Servidor pronto na porta 8080
+2023-10-03T18:39:23.136Z [debug] Requisição GET na rota /api/produtos/
+2023-10-03T18:44:12.990Z [info] Iniciando no ambiente development
+2023-10-03T18:44:12.993Z [info] Servidor pronto na porta 8080
+2023-10-03T18:44:16.315Z [info] Iniciando no ambiente development
+2023-10-03T18:44:16.318Z [info] Servidor pronto na porta 8080
+2023-10-03T18:45:23.735Z [info] Iniciando no ambiente development
+2023-10-03T18:45:23.739Z [info] Servidor pronto na porta 8080
+2023-10-03T18:46:09.083Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-03T18:46:28.071Z [debug] Requisição POST na rota /api/produtos
+2023-10-03T18:47:01.960Z [info] Iniciando no ambiente development
+2023-10-03T18:47:01.963Z [info] Servidor pronto na porta 8080
+2023-10-03T18:48:26.761Z [debug] Requisição GET na rota /api/produtos/
+2023-10-03T18:48:40.406Z [debug] Requisição GET na rota /api/produtos/
+2023-10-03T18:58:51.825Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-03T19:00:31.162Z [debug] Requisição POST na rota /api/produtos
+2023-10-03T19:00:55.092Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-03T19:01:14.814Z [debug] Requisição POST na rota /api/produtos
+2023-10-03T19:01:39.467Z [debug] Requisição POST na rota /api/produtos
+2023-10-03T19:02:06.997Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-03T19:02:18.744Z [debug] Requisição POST na rota /api/produtos
+2023-10-03T19:02:34.197Z [debug] Requisição POST na rota /api/produtos
+2023-10-03T19:02:44.889Z [debug] Requisição GET na rota /api/produtos/
+2023-10-03T19:23:18.484Z [debug] Requisição POST na rota /api/usuarios/login
+2023-10-03T19:23:45.132Z [debug] Requisição POST na rota /api/produtos
+2023-10-03T19:23:54.680Z [debug] Requisição POST na rota /api/produtos
